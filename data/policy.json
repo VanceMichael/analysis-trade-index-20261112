@@ -1,0 +1,12 @@
+{
+  "basePeriod": 1,
+  "fxVersion": "demo-v1",
+  "rates": {
+    "CNY": 1,
+    "USD": 7
+  },
+  "packs": {
+    "piece": 1,
+    "box": 12
+  }
+}

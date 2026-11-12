@@ -1,0 +1,965 @@
+{
+  "version": 1,
+  "records": [
+    {
+      "sku": "s0",
+      "period": 1,
+      "quantity": 10,
+      "unitPrice": 100,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 0,
+      "id": "r0000"
+    },
+    {
+      "sku": "s1",
+      "period": 1,
+      "quantity": 11,
+      "unitPrice": 115,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 1,
+      "id": "r0001"
+    },
+    {
+      "sku": "s2",
+      "period": 1,
+      "quantity": 12,
+      "unitPrice": 130,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 2,
+      "id": "r0002"
+    },
+    {
+      "sku": "s3",
+      "period": 1,
+      "quantity": 13,
+      "unitPrice": 145,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 0,
+      "id": "r0003"
+    },
+    {
+      "sku": "s4",
+      "period": 1,
+      "quantity": 14,
+      "unitPrice": 160,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 1,
+      "id": "r0004"
+    },
+    {
+      "sku": "s5",
+      "period": 1,
+      "quantity": 15,
+      "unitPrice": 175,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 2,
+      "id": "r0005"
+    },
+    {
+      "sku": "s6",
+      "period": 1,
+      "quantity": 16,
+      "unitPrice": 190,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 0,
+      "id": "r0006"
+    },
+    {
+      "sku": "s7",
+      "period": 1,
+      "quantity": 10,
+      "unitPrice": 205,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 1,
+      "id": "r0007"
+    },
+    {
+      "sku": "s0",
+      "period": 2,
+      "quantity": 11,
+      "unitPrice": 102,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 2,
+      "id": "r0008"
+    },
+    {
+      "sku": "s1",
+      "period": 2,
+      "quantity": 12,
+      "unitPrice": 117,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 0,
+      "id": "r0009"
+    },
+    {
+      "sku": "s2",
+      "period": 2,
+      "quantity": 13,
+      "unitPrice": 132,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 1,
+      "id": "r0010"
+    },
+    {
+      "sku": "s3",
+      "period": 2,
+      "quantity": 14,
+      "unitPrice": 147,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 2,
+      "id": "r0011"
+    },
+    {
+      "sku": "s4",
+      "period": 2,
+      "quantity": 15,
+      "unitPrice": 162,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 0,
+      "id": "r0012"
+    },
+    {
+      "sku": "s5",
+      "period": 2,
+      "quantity": 16,
+      "unitPrice": 177,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 1,
+      "id": "r0013"
+    },
+    {
+      "sku": "s6",
+      "period": 2,
+      "quantity": 10,
+      "unitPrice": 192,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 2,
+      "id": "r0014"
+    },
+    {
+      "sku": "s7",
+      "period": 2,
+      "quantity": 11,
+      "unitPrice": 207,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 0,
+      "id": "r0015"
+    },
+    {
+      "sku": "s0",
+      "period": 3,
+      "quantity": 12,
+      "unitPrice": 104,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 1,
+      "id": "r0016"
+    },
+    {
+      "sku": "s1",
+      "period": 3,
+      "quantity": 13,
+      "unitPrice": 119,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 2,
+      "id": "r0017"
+    },
+    {
+      "sku": "s2",
+      "period": 3,
+      "quantity": 14,
+      "unitPrice": 134,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 0,
+      "id": "r0018"
+    },
+    {
+      "sku": "s3",
+      "period": 3,
+      "quantity": 15,
+      "unitPrice": 149,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 1,
+      "id": "r0019"
+    },
+    {
+      "sku": "s4",
+      "period": 3,
+      "quantity": 16,
+      "unitPrice": 164,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 2,
+      "id": "r0020"
+    },
+    {
+      "sku": "s5",
+      "period": 3,
+      "quantity": 10,
+      "unitPrice": 179,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 0,
+      "id": "r0021"
+    },
+    {
+      "sku": "s6",
+      "period": 3,
+      "quantity": 11,
+      "unitPrice": 194,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 1,
+      "id": "r0022"
+    },
+    {
+      "sku": "s7",
+      "period": 3,
+      "quantity": 12,
+      "unitPrice": 209,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 2,
+      "id": "r0023"
+    },
+    {
+      "sku": "s0",
+      "period": 4,
+      "quantity": 13,
+      "unitPrice": 106,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 0,
+      "id": "r0024"
+    },
+    {
+      "sku": "s1",
+      "period": 4,
+      "quantity": 14,
+      "unitPrice": 121,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 1,
+      "id": "r0025"
+    },
+    {
+      "sku": "s2",
+      "period": 4,
+      "quantity": 15,
+      "unitPrice": 136,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 2,
+      "id": "r0026"
+    },
+    {
+      "sku": "s3",
+      "period": 4,
+      "quantity": 16,
+      "unitPrice": 151,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 0,
+      "id": "r0027"
+    },
+    {
+      "sku": "s4",
+      "period": 4,
+      "quantity": 10,
+      "unitPrice": 166,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 1,
+      "id": "r0028"
+    },
+    {
+      "sku": "s5",
+      "period": 4,
+      "quantity": 11,
+      "unitPrice": 181,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 2,
+      "id": "r0029"
+    },
+    {
+      "sku": "s6",
+      "period": 4,
+      "quantity": 12,
+      "unitPrice": 196,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 0,
+      "id": "r0030"
+    },
+    {
+      "sku": "s7",
+      "period": 4,
+      "quantity": 13,
+      "unitPrice": 211,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 1,
+      "id": "r0031"
+    },
+    {
+      "sku": "s0",
+      "period": 5,
+      "quantity": 14,
+      "unitPrice": 108,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 2,
+      "id": "r0032"
+    },
+    {
+      "sku": "s1",
+      "period": 5,
+      "quantity": 15,
+      "unitPrice": 123,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 0,
+      "id": "r0033"
+    },
+    {
+      "sku": "s2",
+      "period": 5,
+      "quantity": 16,
+      "unitPrice": 138,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 1,
+      "id": "r0034"
+    },
+    {
+      "sku": "s3",
+      "period": 5,
+      "quantity": 10,
+      "unitPrice": 153,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 2,
+      "id": "r0035"
+    },
+    {
+      "sku": "s4",
+      "period": 5,
+      "quantity": 11,
+      "unitPrice": 168,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 0,
+      "id": "r0036"
+    },
+    {
+      "sku": "s5",
+      "period": 5,
+      "quantity": 12,
+      "unitPrice": 183,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 1,
+      "id": "r0037"
+    },
+    {
+      "sku": "s6",
+      "period": 5,
+      "quantity": 13,
+      "unitPrice": 198,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 2,
+      "id": "r0038"
+    },
+    {
+      "sku": "s7",
+      "period": 5,
+      "quantity": 14,
+      "unitPrice": 213,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 0,
+      "id": "r0039"
+    },
+    {
+      "sku": "s0",
+      "period": 6,
+      "quantity": 15,
+      "unitPrice": 110,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 1,
+      "id": "r0040"
+    },
+    {
+      "sku": "s1",
+      "period": 6,
+      "quantity": 16,
+      "unitPrice": 125,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 2,
+      "id": "r0041"
+    },
+    {
+      "sku": "s2",
+      "period": 6,
+      "quantity": 10,
+      "unitPrice": 140,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 0,
+      "id": "r0042"
+    },
+    {
+      "sku": "s3",
+      "period": 6,
+      "quantity": 11,
+      "unitPrice": 155,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 1,
+      "id": "r0043"
+    },
+    {
+      "sku": "s4",
+      "period": 6,
+      "quantity": 12,
+      "unitPrice": 170,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 2,
+      "id": "r0044"
+    },
+    {
+      "sku": "s5",
+      "period": 6,
+      "quantity": 13,
+      "unitPrice": 185,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 0,
+      "id": "r0045"
+    },
+    {
+      "sku": "s6",
+      "period": 6,
+      "quantity": 14,
+      "unitPrice": 200,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 1,
+      "id": "r0046"
+    },
+    {
+      "sku": "s7",
+      "period": 6,
+      "quantity": 15,
+      "unitPrice": 215,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 2,
+      "id": "r0047"
+    },
+    {
+      "sku": "s0",
+      "period": 7,
+      "quantity": 16,
+      "unitPrice": 112,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 0,
+      "id": "r0048"
+    },
+    {
+      "sku": "s1",
+      "period": 7,
+      "quantity": 10,
+      "unitPrice": 127,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 1,
+      "id": "r0049"
+    },
+    {
+      "sku": "s2",
+      "period": 7,
+      "quantity": 11,
+      "unitPrice": 142,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 2,
+      "id": "r0050"
+    },
+    {
+      "sku": "s3",
+      "period": 7,
+      "quantity": 12,
+      "unitPrice": 157,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 0,
+      "id": "r0051"
+    },
+    {
+      "sku": "s4",
+      "period": 7,
+      "quantity": 13,
+      "unitPrice": 172,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 1,
+      "id": "r0052"
+    },
+    {
+      "sku": "s5",
+      "period": 7,
+      "quantity": 14,
+      "unitPrice": 187,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 2,
+      "id": "r0053"
+    },
+    {
+      "sku": "s6",
+      "period": 7,
+      "quantity": 15,
+      "unitPrice": 202,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 0,
+      "id": "r0054"
+    },
+    {
+      "sku": "s7",
+      "period": 7,
+      "quantity": 16,
+      "unitPrice": 217,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 1,
+      "id": "r0055"
+    },
+    {
+      "sku": "s0",
+      "period": 8,
+      "quantity": 10,
+      "unitPrice": 114,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 2,
+      "id": "r0056"
+    },
+    {
+      "sku": "s1",
+      "period": 8,
+      "quantity": 11,
+      "unitPrice": 129,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 0,
+      "id": "r0057"
+    },
+    {
+      "sku": "s2",
+      "period": 8,
+      "quantity": 12,
+      "unitPrice": 144,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 1,
+      "id": "r0058"
+    },
+    {
+      "sku": "s3",
+      "period": 8,
+      "quantity": 13,
+      "unitPrice": 159,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 2,
+      "id": "r0059"
+    },
+    {
+      "sku": "s4",
+      "period": 8,
+      "quantity": 14,
+      "unitPrice": 174,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 0,
+      "id": "r0060"
+    },
+    {
+      "sku": "s5",
+      "period": 8,
+      "quantity": 15,
+      "unitPrice": 189,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 1,
+      "id": "r0061"
+    },
+    {
+      "sku": "s6",
+      "period": 8,
+      "quantity": 16,
+      "unitPrice": 204,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 2,
+      "id": "r0062"
+    },
+    {
+      "sku": "s7",
+      "period": 8,
+      "quantity": 10,
+      "unitPrice": 219,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 0,
+      "id": "r0063"
+    },
+    {
+      "sku": "s0",
+      "period": 9,
+      "quantity": 11,
+      "unitPrice": 116,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 1,
+      "id": "r0064"
+    },
+    {
+      "sku": "s1",
+      "period": 9,
+      "quantity": 12,
+      "unitPrice": 131,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 2,
+      "id": "r0065"
+    },
+    {
+      "sku": "s2",
+      "period": 9,
+      "quantity": 13,
+      "unitPrice": 146,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 0,
+      "id": "r0066"
+    },
+    {
+      "sku": "s3",
+      "period": 9,
+      "quantity": 14,
+      "unitPrice": 161,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 1,
+      "id": "r0067"
+    },
+    {
+      "sku": "s4",
+      "period": 9,
+      "quantity": 15,
+      "unitPrice": 176,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 2,
+      "id": "r0068"
+    },
+    {
+      "sku": "s5",
+      "period": 9,
+      "quantity": 16,
+      "unitPrice": 191,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 0,
+      "id": "r0069"
+    },
+    {
+      "sku": "s6",
+      "period": 9,
+      "quantity": 10,
+      "unitPrice": 206,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 1,
+      "id": "r0070"
+    },
+    {
+      "sku": "s7",
+      "period": 9,
+      "quantity": 11,
+      "unitPrice": 221,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 2,
+      "id": "r0071"
+    },
+    {
+      "sku": "s0",
+      "period": 10,
+      "quantity": 12,
+      "unitPrice": 118,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 0,
+      "id": "r0072"
+    },
+    {
+      "sku": "s1",
+      "period": 10,
+      "quantity": 13,
+      "unitPrice": 133,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 1,
+      "id": "r0073"
+    },
+    {
+      "sku": "s2",
+      "period": 10,
+      "quantity": 14,
+      "unitPrice": 148,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 2,
+      "id": "r0074"
+    },
+    {
+      "sku": "s3",
+      "period": 10,
+      "quantity": 15,
+      "unitPrice": 163,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 0,
+      "id": "r0075"
+    },
+    {
+      "sku": "s4",
+      "period": 10,
+      "quantity": 16,
+      "unitPrice": 178,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 1,
+      "id": "r0076"
+    },
+    {
+      "sku": "s5",
+      "period": 10,
+      "quantity": 10,
+      "unitPrice": 193,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 2,
+      "id": "r0077"
+    },
+    {
+      "sku": "s6",
+      "period": 10,
+      "quantity": 11,
+      "unitPrice": 208,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 0,
+      "id": "r0078"
+    },
+    {
+      "sku": "s7",
+      "period": 10,
+      "quantity": 12,
+      "unitPrice": 223,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 1,
+      "id": "r0079"
+    },
+    {
+      "sku": "s0",
+      "period": 11,
+      "quantity": 13,
+      "unitPrice": 120,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 2,
+      "id": "r0080"
+    },
+    {
+      "sku": "s1",
+      "period": 11,
+      "quantity": 14,
+      "unitPrice": 135,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 0,
+      "id": "r0081"
+    },
+    {
+      "sku": "s2",
+      "period": 11,
+      "quantity": 15,
+      "unitPrice": 150,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 1,
+      "id": "r0082"
+    },
+    {
+      "sku": "s3",
+      "period": 11,
+      "quantity": 16,
+      "unitPrice": 165,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 2,
+      "id": "r0083"
+    },
+    {
+      "sku": "s4",
+      "period": 11,
+      "quantity": 10,
+      "unitPrice": 180,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 0,
+      "id": "r0084"
+    },
+    {
+      "sku": "s5",
+      "period": 11,
+      "quantity": 11,
+      "unitPrice": 195,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 1,
+      "id": "r0085"
+    },
+    {
+      "sku": "s6",
+      "period": 11,
+      "quantity": 12,
+      "unitPrice": 210,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 2,
+      "id": "r0086"
+    },
+    {
+      "sku": "s7",
+      "period": 11,
+      "quantity": 13,
+      "unitPrice": 225,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 0,
+      "id": "r0087"
+    },
+    {
+      "sku": "s0",
+      "period": 12,
+      "quantity": 14,
+      "unitPrice": 122,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 1,
+      "id": "r0088"
+    },
+    {
+      "sku": "s1",
+      "period": 12,
+      "quantity": 15,
+      "unitPrice": 137,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 2,
+      "id": "r0089"
+    },
+    {
+      "sku": "s2",
+      "period": 12,
+      "quantity": 16,
+      "unitPrice": 152,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 0,
+      "id": "r0090"
+    },
+    {
+      "sku": "s3",
+      "period": 12,
+      "quantity": 10,
+      "unitPrice": 167,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 1,
+      "id": "r0091"
+    },
+    {
+      "sku": "s4",
+      "period": 12,
+      "quantity": 11,
+      "unitPrice": 182,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 2,
+      "id": "r0092"
+    },
+    {
+      "sku": "s5",
+      "period": 12,
+      "quantity": 12,
+      "unitPrice": 197,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 0,
+      "id": "r0093"
+    },
+    {
+      "sku": "s6",
+      "period": 12,
+      "quantity": 13,
+      "unitPrice": 212,
+      "currency": "CNY",
+      "pack": "piece",
+      "returned": 1,
+      "id": "r0094"
+    },
+    {
+      "sku": "s7",
+      "period": 12,
+      "quantity": 14,
+      "unitPrice": 227,
+      "currency": "USD",
+      "pack": "piece",
+      "returned": 2,
+      "id": "r0095"
+    }
+  ]
+}
