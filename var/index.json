@@ -1,0 +1,513 @@
+{
+  "caliber": {
+    "amountUnit": "CNY 最小货币单位",
+    "basePeriod": 1,
+    "fingerprint": "274792b59a844c28816ed8185233b7b4d413f9a1de206d4a7ffa22db16c0c672",
+    "fxBase": "CNY",
+    "fxVersion": "demo-v1",
+    "packTable": {
+      "box": [
+        {
+          "factor": 12,
+          "from": 1
+        }
+      ],
+      "piece": [
+        {
+          "factor": 1,
+          "from": 1
+        }
+      ]
+    },
+    "quantityUnit": "按规格生效系数折算的基本单位"
+  },
+  "chain": {
+    "breaks": [],
+    "cumulative": [
+      {
+        "period": 1,
+        "price": 1,
+        "quantity": 1
+      },
+      {
+        "period": 2,
+        "price": 1.012638937194435,
+        "quantity": 1.0595935697210754
+      },
+      {
+        "period": 3,
+        "price": 1.0253822746397927,
+        "quantity": 1.0037020703011799
+      }
+    ],
+    "segments": [
+      {
+        "averageUnitPrice": {
+          "base": 619.950495049505,
+          "current": 658.6764705882352,
+          "ratio": 1.0624662385915795
+        },
+        "broken": false,
+        "commonCount": 8,
+        "coverage": {
+          "base": 1,
+          "current": 1
+        },
+        "decomposition": {
+          "assortmentChange": 0,
+          "enteringGross": 0,
+          "exitingGross": 0,
+          "grossChange": 4570,
+          "identityError": 0,
+          "netChange": 5663,
+          "priceEffect": 815,
+          "quantityEffect": 3755,
+          "returnsDelta": -1093
+        },
+        "entering": [],
+        "exiting": [],
+        "from": 1,
+        "indices": {
+          "commonValueRatio": 1.0729857063004073,
+          "fisherPrice": 1.012638937194435,
+          "fisherQuantity": 1.0595935697210754,
+          "laspeyresPrice": 1.0126167851153878,
+          "laspeyresQuantity": 1.059570390481514,
+          "paaschePrice": 1.0126610897580828,
+          "paascheQuantity": 1.0596167494677076
+        },
+        "sums": {
+          "basePriceCurrentQty": 66345,
+          "baseValue": 62615,
+          "currentPriceBaseQty": 63405,
+          "currentValue": 67185
+        },
+        "to": 2,
+        "totals": {
+          "base": {
+            "gross": 62615,
+            "net": 57505,
+            "returns": 5110,
+            "units": 101
+          },
+          "current": {
+            "gross": 67185,
+            "net": 63168,
+            "returns": 4017,
+            "units": 102
+          }
+        },
+        "zeroQuantity": []
+      },
+      {
+        "averageUnitPrice": {
+          "base": 658.6764705882352,
+          "current": 625.6504854368932,
+          "ratio": 0.949860080591845
+        },
+        "broken": false,
+        "commonCount": 8,
+        "coverage": {
+          "base": 1,
+          "current": 1
+        },
+        "decomposition": {
+          "assortmentChange": 0,
+          "enteringGross": 0,
+          "exitingGross": 0,
+          "grossChange": -2743,
+          "identityError": 0,
+          "netChange": -4987,
+          "priceEffect": 823,
+          "quantityEffect": -3566,
+          "returnsDelta": 2244
+        },
+        "entering": [],
+        "exiting": [],
+        "from": 2,
+        "indices": {
+          "commonValueRatio": 0.9591724343231376,
+          "fisherPrice": 1.0125842854518943,
+          "fisherQuantity": 0.9472519454467732,
+          "laspeyresPrice": 1.0125027908015183,
+          "laspeyresQuantity": 0.9471757088635856,
+          "paaschePrice": 1.012665786661638,
+          "paascheQuantity": 0.9473281881661154
+        },
+        "sums": {
+          "basePriceCurrentQty": 63636,
+          "baseValue": 67185,
+          "currentPriceBaseQty": 68025,
+          "currentValue": 64442
+        },
+        "to": 3,
+        "totals": {
+          "base": {
+            "gross": 67185,
+            "net": 63168,
+            "returns": 4017,
+            "units": 102
+          },
+          "current": {
+            "gross": 64442,
+            "net": 58181,
+            "returns": 6261,
+            "units": 103
+          }
+        },
+        "zeroQuantity": []
+      }
+    ]
+  },
+  "excluded": [],
+  "fixedBase": [
+    {
+      "averageUnitPrice": {
+        "base": 619.950495049505,
+        "current": 619.950495049505,
+        "ratio": 1
+      },
+      "commonCount": 8,
+      "coverage": {
+        "base": 1,
+        "current": 1
+      },
+      "decomposition": {
+        "assortmentChange": 0,
+        "enteringGross": 0,
+        "exitingGross": 0,
+        "grossChange": 0,
+        "identityError": 0,
+        "netChange": 0,
+        "priceEffect": 0,
+        "quantityEffect": 0,
+        "returnsDelta": 0
+      },
+      "entering": [],
+      "exiting": [],
+      "from": 1,
+      "indices": {
+        "commonValueRatio": 1,
+        "fisherPrice": 1,
+        "fisherQuantity": 1,
+        "laspeyresPrice": 1,
+        "laspeyresQuantity": 1,
+        "paaschePrice": 1,
+        "paascheQuantity": 1
+      },
+      "period": 1,
+      "sums": {
+        "basePriceCurrentQty": 62615,
+        "baseValue": 62615,
+        "currentPriceBaseQty": 62615,
+        "currentValue": 62615
+      },
+      "to": 1,
+      "totals": {
+        "base": {
+          "gross": 62615,
+          "net": 57505,
+          "returns": 5110,
+          "units": 101
+        },
+        "current": {
+          "gross": 62615,
+          "net": 57505,
+          "returns": 5110,
+          "units": 101
+        }
+      },
+      "zeroQuantity": []
+    },
+    {
+      "averageUnitPrice": {
+        "base": 619.950495049505,
+        "current": 658.6764705882352,
+        "ratio": 1.0624662385915795
+      },
+      "commonCount": 8,
+      "coverage": {
+        "base": 1,
+        "current": 1
+      },
+      "decomposition": {
+        "assortmentChange": 0,
+        "enteringGross": 0,
+        "exitingGross": 0,
+        "grossChange": 4570,
+        "identityError": 0,
+        "netChange": 5663,
+        "priceEffect": 815,
+        "quantityEffect": 3755,
+        "returnsDelta": -1093
+      },
+      "entering": [],
+      "exiting": [],
+      "from": 1,
+      "indices": {
+        "commonValueRatio": 1.0729857063004073,
+        "fisherPrice": 1.012638937194435,
+        "fisherQuantity": 1.0595935697210754,
+        "laspeyresPrice": 1.0126167851153878,
+        "laspeyresQuantity": 1.059570390481514,
+        "paaschePrice": 1.0126610897580828,
+        "paascheQuantity": 1.0596167494677076
+      },
+      "period": 2,
+      "sums": {
+        "basePriceCurrentQty": 66345,
+        "baseValue": 62615,
+        "currentPriceBaseQty": 63405,
+        "currentValue": 67185
+      },
+      "to": 2,
+      "totals": {
+        "base": {
+          "gross": 62615,
+          "net": 57505,
+          "returns": 5110,
+          "units": 101
+        },
+        "current": {
+          "gross": 67185,
+          "net": 63168,
+          "returns": 4017,
+          "units": 102
+        }
+      },
+      "zeroQuantity": []
+    },
+    {
+      "averageUnitPrice": {
+        "base": 619.950495049505,
+        "current": 625.6504854368932,
+        "ratio": 1.0091942670147123
+      },
+      "commonCount": 8,
+      "coverage": {
+        "base": 1,
+        "current": 1
+      },
+      "decomposition": {
+        "assortmentChange": 0,
+        "enteringGross": 0,
+        "exitingGross": 0,
+        "grossChange": 1827,
+        "identityError": 0,
+        "netChange": 676,
+        "priceEffect": 1596,
+        "quantityEffect": 231,
+        "returnsDelta": 1151
+      },
+      "entering": [],
+      "exiting": [],
+      "from": 1,
+      "indices": {
+        "commonValueRatio": 1.0291783119060929,
+        "fisherPrice": 1.0254450300595872,
+        "fisherQuantity": 1.003640645512016,
+        "laspeyresPrice": 1.0252335702307753,
+        "laspeyresQuantity": 1.0034336820250738,
+        "paaschePrice": 1.0256565335031036,
+        "paascheQuantity": 1.0038476516862684
+      },
+      "period": 3,
+      "sums": {
+        "basePriceCurrentQty": 62830,
+        "baseValue": 62615,
+        "currentPriceBaseQty": 64195,
+        "currentValue": 64442
+      },
+      "to": 3,
+      "totals": {
+        "base": {
+          "gross": 62615,
+          "net": 57505,
+          "returns": 5110,
+          "units": 101
+        },
+        "current": {
+          "gross": 64442,
+          "net": 58181,
+          "returns": 6261,
+          "units": 103
+        }
+      },
+      "zeroQuantity": []
+    }
+  ],
+  "flow": "index",
+  "inputFingerprint": "e12be945f35b44b6a97d0cd30446ebc190f269d3755f869761e88b476d58d1d2",
+  "periods": [
+    1,
+    2,
+    3
+  ],
+  "range": {
+    "from": 1,
+    "to": 3
+  },
+  "selected": {
+    "averageUnitPrice": {
+      "base": 619.950495049505,
+      "current": 625.6504854368932,
+      "ratio": 1.0091942670147123
+    },
+    "commonCount": 8,
+    "coverage": {
+      "base": 1,
+      "current": 1
+    },
+    "decomposition": {
+      "assortmentChange": 0,
+      "enteringGross": 0,
+      "exitingGross": 0,
+      "grossChange": 1827,
+      "identityError": 0,
+      "netChange": 676,
+      "priceEffect": 1596,
+      "quantityEffect": 231,
+      "returnsDelta": 1151
+    },
+    "entering": [],
+    "exiting": [],
+    "from": 1,
+    "indices": {
+      "commonValueRatio": 1.0291783119060929,
+      "fisherPrice": 1.0254450300595872,
+      "fisherQuantity": 1.003640645512016,
+      "laspeyresPrice": 1.0252335702307753,
+      "laspeyresQuantity": 1.0034336820250738,
+      "paaschePrice": 1.0256565335031036,
+      "paascheQuantity": 1.0038476516862684
+    },
+    "products": [
+      {
+        "baseGross": 1000,
+        "basePrice": 100,
+        "baseUnits": 10,
+        "currentGross": 1248,
+        "currentPrice": 104,
+        "currentUnits": 12,
+        "priceEffect": 44,
+        "quantityEffect": 204,
+        "sku": "s0",
+        "weightBase": 0.015970614070110994,
+        "weightCurrent": 0.019366251823345025
+      },
+      {
+        "baseGross": 8855,
+        "basePrice": 805,
+        "baseUnits": 11,
+        "currentGross": 10829,
+        "currentPrice": 833,
+        "currentUnits": 13,
+        "priceEffect": 336,
+        "quantityEffect": 1638,
+        "sku": "s1",
+        "weightBase": 0.14141978759083287,
+        "weightCurrent": 0.16804258092548338
+      },
+      {
+        "baseGross": 1560,
+        "basePrice": 130,
+        "baseUnits": 12,
+        "currentGross": 1876,
+        "currentPrice": 134,
+        "currentUnits": 14,
+        "priceEffect": 52,
+        "quantityEffect": 264,
+        "sku": "s2",
+        "weightBase": 0.024914157949373152,
+        "weightCurrent": 0.029111449054964152
+      },
+      {
+        "baseGross": 13195,
+        "basePrice": 1015,
+        "baseUnits": 13,
+        "currentGross": 15645,
+        "currentPrice": 1043,
+        "currentUnits": 15,
+        "priceEffect": 392,
+        "quantityEffect": 2058,
+        "sku": "s3",
+        "weightBase": 0.21073225265511458,
+        "weightCurrent": 0.24277645014121224
+      },
+      {
+        "baseGross": 2240,
+        "basePrice": 160,
+        "baseUnits": 14,
+        "currentGross": 2624,
+        "currentPrice": 164,
+        "currentUnits": 16,
+        "priceEffect": 60,
+        "quantityEffect": 324,
+        "sku": "s4",
+        "weightBase": 0.03577417551704863,
+        "weightCurrent": 0.040718785884981845
+      },
+      {
+        "baseGross": 18375,
+        "basePrice": 1225,
+        "baseUnits": 15,
+        "currentGross": 12530,
+        "currentPrice": 1253,
+        "currentUnits": 10,
+        "priceEffect": 350,
+        "quantityEffect": -6195,
+        "sku": "s5",
+        "weightBase": 0.29346003353828953,
+        "weightCurrent": 0.19443840973278298
+      },
+      {
+        "baseGross": 3040,
+        "basePrice": 190,
+        "baseUnits": 16,
+        "currentGross": 2134,
+        "currentPrice": 194,
+        "currentUnits": 11,
+        "priceEffect": 54,
+        "quantityEffect": -960,
+        "sku": "s6",
+        "weightBase": 0.04855066677313743,
+        "weightCurrent": 0.033115049191521057
+      },
+      {
+        "baseGross": 14350,
+        "basePrice": 1435,
+        "baseUnits": 10,
+        "currentGross": 17556,
+        "currentPrice": 1463,
+        "currentUnits": 12,
+        "priceEffect": 308,
+        "quantityEffect": 2898,
+        "sku": "s7",
+        "weightBase": 0.22917831190609278,
+        "weightCurrent": 0.27243102324570934
+      }
+    ],
+    "sums": {
+      "basePriceCurrentQty": 62830,
+      "baseValue": 62615,
+      "currentPriceBaseQty": 64195,
+      "currentValue": 64442
+    },
+    "to": 3,
+    "totals": {
+      "base": {
+        "gross": 62615,
+        "net": 57505,
+        "returns": 5110,
+        "units": 101
+      },
+      "current": {
+        "gross": 64442,
+        "net": 58181,
+        "returns": 6261,
+        "units": 103
+      }
+    },
+    "zeroQuantity": []
+  }
+}

@@ -8,8 +8,10 @@
   },
   "scripts": {
     "test": "node --test",
-    "build": "node --check src/cli.js && node --check src/domain.js && node --check src/dataset.js && node --check src/output.js",
+    "build": "node --check src/cli.js && node --check src/domain.js && node --check src/dataset.js && node --check src/output.js && node --check src/policy.js && node --check src/index.js && node --check src/report.js",
     "summary": "node src/cli.js summary",
+    "index": "node src/cli.js index",
+    "review": "node src/cli.js review",
     "demo": "node scripts/demo.js"
   }
 }

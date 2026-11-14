@@ -1,12 +1,30 @@
 {
   "basePeriod": 1,
-  "fxVersion": "demo-v1",
-  "rates": {
-    "CNY": 1,
-    "USD": 7
+  "fx": {
+    "defaultVersion": "demo-v1",
+    "versions": {
+      "demo-v1": {
+        "base": "CNY",
+        "rates": {
+          "CNY": 1,
+          "USD": 7
+        }
+      },
+      "demo-v2": {
+        "base": "CNY",
+        "rates": {
+          "CNY": 1,
+          "USD": 7.2
+        }
+      }
+    }
   },
   "packs": {
-    "piece": 1,
-    "box": 12
+    "piece": [
+      { "from": 1, "factor": 1 }
+    ],
+    "box": [
+      { "from": 1, "factor": 12 }
+    ]
   }
 }

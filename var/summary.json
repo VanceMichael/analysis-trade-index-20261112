@@ -1,0 +1,20 @@
+{
+  "count": 96,
+  "groupBy": "currency",
+  "groups": [
+    {
+      "count": 48,
+      "gross": 97086,
+      "key": "CNY",
+      "sum": 622
+    },
+    {
+      "count": 48,
+      "gross": 105923,
+      "key": "USD",
+      "sum": 621
+    }
+  ],
+  "inputFingerprint": "e12be945f35b44b6a97d0cd30446ebc190f269d3755f869761e88b476d58d1d2",
+  "valueField": "quantity"
+}

@@ -16,10 +16,13 @@ npm test
 npm run summary
 node src/cli.js inspect --input data/records.json
 node src/cli.js summary --input data/records.json --out var/summary.json
+node src/cli.js index --from 1 --to 12 --out var/index.json
+node src/cli.js review --from 1 --to 12
+node src/cli.js index --fx demo-v2
 npm run demo
 ```
 
-`npm run demo` 在本地打印输入、现有核算及配置并生成 `var/summary.json`，不访问网络、不等待真实业务时间，通常几秒内完成。输出目录可删除后重新运行，测试只使用临时目录。
+`index` 输出指数流程 JSON（共同商品、Laspeyres/Paasche/Fisher、金额分解、定基与链式），`review` 输出中文复盘；`--policy` 可换业务配置，`--fx` 选定汇率版本。`npm run demo` 在本地打印输入、现有核算、指数复盘及配置并生成 `var/summary.json` 与 `var/index.json`，不访问网络、不等待真实业务时间，通常几秒内完成。输出目录可删除后重新运行，测试只使用临时目录。
 
 ## 容器
 
@@ -34,6 +37,9 @@ Dockerfile 固定 Node.js 基础镜像摘要，构建时执行语法检查和测
 
 - `src/dataset.js`：记录校验、规范序列化和数据指纹。
 - `src/domain.js`：当前业务分组核算。
+- `src/policy.js`：汇率版本与规格生效表的加载和校验。
+- `src/index.js`：规范化、共同商品指数、金额分解与定基/链式序列。
+- `src/report.js`：中文复盘叙述。
 - `src/cli.js`：本地读取、检查和导出入口。
 - `src/output.js`：以临时文件写入后替换完整 JSON。
 - `test/`：输入约束、领域核对、命令与输出回归。
